@@ -1,6 +1,8 @@
 https://tr.highstar.shop:443/announce # detected by antivirus software
 http://btracker.top:11451/announce # detected by antivirus software
 https://tr.fuckbitcoin.xyz:443/announce # detected by antivirus software
+https://tracker.jiesen.life:8443/announce # detected by antivirus software
+http://p2p.0g.cx:6969/announce # detected by antivirus software
 http://bt-club.ws/announce # error
 http://open.touki.ru/announce.php # malfunction
 udp://anidex.moe:6969/announce # malfunction
@@ -10,6 +12,7 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://carbon-bonsai-621.appspot.com/announce # malfunction
 https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
+http://bt.okmp3.ru:2710/announce # fake seeds
 udp://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker.breizh.pm:6969/announce # requested by sysadmin
 https://torrents.linuxmint.com:443/announce.php # registered torrents
@@ -142,6 +145,13 @@ http://bt2.edwardk.info:6969/announce # registered torrents
 http://open.nyaatorrents.info:6544/announce # registered torrents
 http://open.lolicon.eu:7777/announce # registered torrents
 http://torrent.resonatingmedia.com:6969/announce # registered torrents
+http://y.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://y.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://y.t-1.org:6969/announce # duplicate of udp://x.t-1.org:6969/announce
+udp://tk1.trackerservers.com:8080/announce # duplicate of udp://tracker2.itzmx.com:6961/announce
+udp://t.zerg.pw:1337/announce # duplicate of udp://t.zerg.pw:6969
 udp://t1.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
 udp://t3.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
@@ -257,6 +267,10 @@ wss://ws.peer.ooo:443/announce # deprecated by owner
 http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
 ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://tracker.fansub.id:80/announce # duplicate of https://tracker.fansub.id:443/announce
+https://1337.abcvg.info:443/announce # duplicate of http://1337.abcvg.info:80/announce
 http://masters-tb.com:80/announce.php # registered torrents
 http://mixfiend.com:80/announce.php # registered torrents
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce # registered torrents
@@ -267,6 +281,7 @@ http://tracker.tambovnet.org:80/announce.php # registered torrents
 http://tracker.torrentbytes.net:80/announce.php # registered torrents
 http://tracker.trancetraffic.com:80/announce.php # registered torrents
 http://www.mvgroup.org:80/tracker.php/announce # registered torrents
+http://t.acg.rip:6699/announce # registered torrents
 http://www.shnflac.net:80/announce.php # registered torrents
 http://www.tribalmixes.com:80/announce.php # registered torrents
 http://www.worldboxingvideoarchive.com:80/announce.php # registered torrents
@@ -277,4 +292,4 @@ http://tracker.frozen-layer.com:6969/announce # registered torrents
 https://t.btcland.xyz:443/announce # detected as suspicious
 https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
 udp://www.torrent.eu.org:451/announce # duplicate of udp://tracker.torrent.eu.org:451/announce
-
+https://trackers.mlsub.net:443/announce # duplicate of https://tracker.mlsub.net:443/announce
